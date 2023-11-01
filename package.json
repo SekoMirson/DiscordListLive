@@ -2,6 +2,7 @@
   "name": "stalk-live-altyapi",
   "version": "0.0.0",
   "private": true,
+  "main": "app.js",
   "scripts": {
     "start": "kedi",
     "kedi": "node ./bin/www"
